@@ -147,7 +147,7 @@ ul{
     right: 50%;   
 }
 
-@media (min-width: 360px){
+@media (max-width: 600px){
 
    *{
        margin: 0;
